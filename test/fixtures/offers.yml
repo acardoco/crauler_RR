@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nombre_oferta: MyString
+  nombre_empresa: MyString
+  localizacion: MyString
+  descrp_oferta: MyString
+  responsabilidad: MyString
+  tipo_jornada: MyString
+  experiencia: MyString
+
+two:
+  nombre_oferta: MyString
+  nombre_empresa: MyString
+  localizacion: MyString
+  descrp_oferta: MyString
+  responsabilidad: MyString
+  tipo_jornada: MyString
+  experiencia: MyString
