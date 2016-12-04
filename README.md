@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# crauler_RR
+Práctica de Integración de Sistemas hecha en Ruby on Rails
+>>>>>>> 1d9942a351ca6296bf8bee4d81eb2020be4a196d
